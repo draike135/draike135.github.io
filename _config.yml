@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: João's
 
 # Your name to show in the footer
-author: Some Person
+author: João Lopes
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,8 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Linkdin: "https://www.linkedin.com/in/jo%C3%A3o-filipe-santos-lopes-860a73268/"
+    - Itch.io: "https://draike.itch.io/"
+    - Github: "https://github.com/draike135"
   Author's home: "https://deanattali.com"
 
 ################
