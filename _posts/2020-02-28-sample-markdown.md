@@ -32,8 +32,16 @@ Final quackdown was one of the best games i ever did in a  Gamejams, Nordic game
 Here we were presented with the opportunity to make a game with the main sponcer of the event LEGO, we had to encorporate lego elements in our game, we also had a few restrictions as we decided to stick with the jams thematic!
 The final product is a local Multiplayer game that involves a controller and a map made of lego!
 
+### [Anglership](https://ratuspro.itch.io/anglership)
 
-[Here]([https://deanattali.com/](https://antunes10.itch.io/winds-of-berkana)) i have made avalable all art and models i can share.
+![hW_VVG](https://github.com/user-attachments/assets/a39c5ae1-9090-418d-bd09-3df654791f3b)
+
+Now for the first game jam i ever participated, anglership, still one of my proudest work, i had the luck to be serrounded by a tallented team full of veterans that helped me and guided me trought my first team project.
+In this project i learned about repos, gitkraken, and a bunch of other stuff.
+The thematic of the jam was Black & Whyte, where we could only use these 2 shades. i was incharge of modeling all 3D assets in the game.
+In the end with the shadders the final product was vety well recived we placed 32 out of 200 in the visual and ambient part of the competition!
+
+
 
 It can also be centered!
 
