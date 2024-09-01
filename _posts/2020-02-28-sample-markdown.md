@@ -2,7 +2,6 @@
 layout: post
 title: Game´s im a part of!
 subtitle: 3D/2D art + Programming
-gh-repo: daattali/beautiful-jekyll
 tags: [test]
 comments: false
 mathjax: true
