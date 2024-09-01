@@ -60,7 +60,20 @@ Another big internatinal game jam is Global game jam, since my first year of uni
 
 Bombers was the first game i lead in programing and 3D art, i was responceble to make both minigames worck on the main scene and was for the last 4 days of the game jam. it was a very interesting game to make, the gameplay could only be 20s long we had alot of inpiration from Keep Talking and Nobody Explodes.
 
+### [Alive](https://darkqueensara.itch.io/alive)
 
+![Rnkygw](https://github.com/user-attachments/assets/3fab84a7-24a9-47d7-9429-d99d7343dde0)
+
+DOOM, do you like DOOM? because one of my team members sure did like doom, i have miz feelings about this projects, i had great ambition for redesinnig doom and i worcked around with some real nice blood and gore textures that i made myself, but in the end due to pressure from a member of our team we went back to classic wall textures and desing.
+This made my worck farely simple and i just designed the map + some assets, this was also mey 1st game in Unreal Engine.
+
+## 2D
+
+### [monstrum-umbra](https://nunobaptista57.itch.io/monstrum-umbra)
+
+![alLcHH](https://github.com/user-attachments/assets/72549bab-835a-45a6-8dfb-1476b9849acd)
+
+Another 2D game, this i had to experement with 2D art, not my spciality but i was incharge of desing all UI elements + help program ui and menus. The thematic of the jam was 2 bit so we could only use 2 colors, i loved working on this game because i was full out of the box, but its one of my favorite games and i also pop this one out once in a whyle to play
 
 
 
