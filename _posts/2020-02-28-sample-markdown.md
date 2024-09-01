@@ -15,7 +15,7 @@ Full credit for the games are avalable at the games page at itch.io, linked in i
 **Most of these games were developed during game jams, a few are internal projects**
 
 ## 3D games
-### [Winds of Berkana]((https://antunes10.itch.io/winds-of-berkana))
+### [Winds of Berkana]([https://antunes10.itch.io/winds-of-berkana])
 
 
 ![DYQPto](https://github.com/user-attachments/assets/fe3d6aea-053d-483d-8902-1da9e6e07045)
