@@ -67,6 +67,18 @@ Bombers was the first game i lead in programing and 3D art, i was responceble to
 DOOM, do you like DOOM? because one of my team members sure did like doom, i have miz feelings about this projects, i had great ambition for redesinnig doom and i worcked around with some real nice blood and gore textures that i made myself, but in the end due to pressure from a member of our team we went back to classic wall textures and desing.
 This made my worck farely simple and i just designed the map + some assets, this was also mey 1st game in Unreal Engine.
 
+### [Hello Narrator](https://draike.itch.io/hello-narrator)
+
+![717s3_](https://github.com/user-attachments/assets/3c8e23fc-efab-4ee4-8d22-fa2680b683ce)
+
+Hello narrator was 2023 global game jam projects, i was really hyped for this jam, but the theme killed the mood, for me and for the rest of the team, the team was funny or laufgheter, this is very hard to achive for 4 engennier students special for those ho spent a weekend developing a game at home.
+
+### [Lost  Souls](https://ainqui.itch.io/lost-souls)
+
+![WxPdVk](https://github.com/user-attachments/assets/19c4235c-5b9d-4006-82af-245288cbc059)
+
+Lost Souls was a ambicios project but unfortely was to mutch to do in the short time we had, we had some complications in our team but at the end i still liked the minigames and the overall product.
+
 ## 2D
 
 ### [monstrum-umbra](https://nunobaptista57.itch.io/monstrum-umbra)
@@ -74,6 +86,13 @@ This made my worck farely simple and i just designed the map + some assets, this
 ![alLcHH](https://github.com/user-attachments/assets/72549bab-835a-45a6-8dfb-1476b9849acd)
 
 Another 2D game, this i had to experement with 2D art, not my spciality but i was incharge of desing all UI elements + help program ui and menus. The thematic of the jam was 2 bit so we could only use 2 colors, i loved working on this game because i was full out of the box, but its one of my favorite games and i also pop this one out once in a whyle to play
+
+### [Murder at Hotel Lisbon](https://karane.itch.io/murder-at-hotel-lisbon)
+
+![cVkGNt](https://github.com/user-attachments/assets/a203fedd-c177-40bc-8321-bee0dddd71d6)
+
+Another 2D game and this one is a blast, a funny 2d game, i did all the art on paint and i f*** loved it, the dialog is fun i also started to voice record the lines for some characters but we ddint had the time to implement it.
+I made most of the art including the character investigator, the background and the UI, i also did a bunch of minor art details.
 
 
 
