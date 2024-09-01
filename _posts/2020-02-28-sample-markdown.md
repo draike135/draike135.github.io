@@ -15,7 +15,7 @@ Full credit for the games are avalable at the games page at itch.io, linked in i
 **Most of these games were developed during game jams, a few are internal projects**
 
 ## 3D games
-### [Winds of Berkana]([https://antunes10.itch.io/winds-of-berkana])
+### [Winds of Berkana](https://antunes10.itch.io/winds-of-berkana)
 [in the FAQ](https://antunes10.itch.io/winds-of-berkana)
 
 ![DYQPto](https://github.com/user-attachments/assets/fe3d6aea-053d-483d-8902-1da9e6e07045)
@@ -24,11 +24,13 @@ This is the most ambicios project im apart of, for the past 3 years we have been
 
 [Here]([https://deanattali.com/](https://antunes10.itch.io/winds-of-berkana)) i have made avalable all art and models i can share.
 
-### [Final QuackDown]([https://deanattali.com/](https://antunes10.itch.io/winds-of-berkana))
+### [Final Quackdown](https://antunes10.itch.io/winds-of-berkana)
 
+![LzMueD](https://github.com/user-attachments/assets/4d6a7269-9cb5-4610-9105-80b2a5593721)
 
-![DYQPto](https://github.com/user-attachments/assets/fe3d6aea-053d-483d-8902-1da9e6e07045)
-This is the most ambicios project im apart of, for the past 3 years we have been developing this idea of an hight quality game around Huge Bastions and an awesom character story. In this game i have been responsable for heliping in concep art, and latter deveoping the models for the huge bastions the player can explore.
+Final quackdown was one of the best games i ever did in a  Gamejams, Nordic game jam 2022 is a staple in international game jam´s, i had the plesure to be selected by GameDevTecnico to go as a member of 2 teams to represent our university in this competition.
+Here we were presented with the opportunity to make a game with the main sponcer of the event LEGO, we had to encorporate lego elements in our game, we also had a few restrictions as we decided to stick with the jams thematic!
+The final product is a local Multiplayer game that involves a controller and a map made of lego!
 
 
 [Here]([https://deanattali.com/](https://antunes10.itch.io/winds-of-berkana)) i have made avalable all art and models i can share.
