@@ -17,21 +17,10 @@ Full credit for the games are avalable at the games page at itch.io, linked in i
 ## 3D games
 ### [Winds of Berkana]([https://deanattali.com/](https://antunes10.itch.io/winds-of-berkana))
 
-Here's a table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![DYQPto](https://github.com/user-attachments/assets/fe3d6aea-053d-483d-8902-1da9e6e07045)
+This is the most ambicios project im apart of, for the past 3 years we have been developing this idea of an hight quality game around Huge Bastions and an awesom character story. In this game i have been responsable for heliping in concep art, and latter deveoping the models for the huge bastions the player can explore.
+[Here]([https://deanattali.com/](https://antunes10.itch.io/winds-of-berkana)) i have made avalable all art and models i can share.
 
 It can also be centered!
 
