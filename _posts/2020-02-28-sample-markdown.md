@@ -12,11 +12,10 @@ author: João Lopes
 In this post i go in more detail in the projects i have been apart of, whyle i was a member of student group GameDevTecnico.
 Full credit for the games are avalable at the games page at itch.io, linked in itch game i´ll present.
 
-**Here is some bold text**
+**Most of these games were developed during game jams, a few are internal projects**
 
-## Here is a secondary heading
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+## 3D games
+### [Winds of Berkana]([https://deanattali.com/](https://antunes10.itch.io/winds-of-berkana))
 
 Here's a table:
 
