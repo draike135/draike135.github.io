@@ -41,63 +41,18 @@ In this project i learned about repos, gitkraken, and a bunch of other stuff.
 The thematic of the jam was Black & Whyte, where we could only use these 2 shades. i was incharge of modeling all 3D assets in the game.
 In the end with the shadders the final product was vety well recived we placed 32 out of 200 in the visual and ambient part of the competition!
 
+### [Chocolate in Time](https://nomig.itch.io/choco-time)
+
+![LOKhVk](https://github.com/user-attachments/assets/06452af4-54cc-4c56-93a2-37b49d5e22fa)
+
+Chocolate in time was my second game, it was a chalange because we had both an 3D artist and a 2D artist, but we wanted to make a plataformer puzzle game, we got midle term in a 2.5D puzzle game that i simply love.
+This and anglership is still one of the games i alwys put my students playing and i download form time to time to play on my own.
+
+### [Under Pressure](https://antunes10.itch.io/under-pressure)
+
+![SwtUNC](https://github.com/user-attachments/assets/dca3c598-8b6e-42fd-ad54-5bb8f25e2037)
+
+Another big internatinal game jam is Global game jam, since my first year of university i made a promisse to myselft that i would participate in evry years global game jam. this was also a first for me because we were participating in a internacional site remotly, it was amazing. Because of the 48h duration of the jam we were worcking full time and the jam site organizers were horried about us. This Terror game was a blast to do and i was incharge of evry single asset as the led artist. i also did some code for the game.
 
 
-It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
