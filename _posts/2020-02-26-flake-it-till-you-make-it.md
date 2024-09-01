@@ -2,7 +2,7 @@
 layout: post
 title: Proffesional Carrer
 subtitle: My worck experence
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/wor.PNG
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/wor.PNG
 tags: [Worck, Professor, Games, Coding, Phyton]
