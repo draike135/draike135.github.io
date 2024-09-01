@@ -2,7 +2,7 @@
 layout: post
 title: Game´s im a part of!
 subtitle: 3D/2D art + Programming
-tags: [test]
+tags: [3D,2D,Games,Blender,Game]
 comments: false
 mathjax: true
 author: João Lopes
