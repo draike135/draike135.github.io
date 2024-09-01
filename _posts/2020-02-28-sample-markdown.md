@@ -54,5 +54,13 @@ This and anglership is still one of the games i alwys put my students playing an
 
 Another big internatinal game jam is Global game jam, since my first year of university i made a promisse to myselft that i would participate in evry years global game jam. this was also a first for me because we were participating in a internacional site remotly, it was amazing. Because of the 48h duration of the jam we were worcking full time and the jam site organizers were horried about us. This Terror game was a blast to do and i was incharge of evry single asset as the led artist. i also did some code for the game.
 
+### [Bombers](https://draike.itch.io/bomb)
+
+![YsWj0z](https://github.com/user-attachments/assets/42b574b9-5821-4e5e-91ec-db156a13f66c)
+
+Bombers was the first game i lead in programing and 3D art, i was responceble to make both minigames worck on the main scene and was for the last 4 days of the game jam. it was a very interesting game to make, the gameplay could only be 20s long we had alot of inpiration from Keep Talking and Nobody Explodes.
+
+
+
 
 
