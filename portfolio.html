@@ -1,0 +1,115 @@
+---
+layout: page
+title: Portfolio
+subtitle: Projects across AI, edge computing, and hardware
+---
+
+<style>
+  .jl-portfolio { --jl-blue:#008AFF; --jl-hover:#0085A1; --jl-ink:#404040; }
+  .jl-filters { display:flex; flex-wrap:wrap; gap:.5rem; margin:1.2rem 0 1.8rem; }
+  .jl-filter { border:1px solid #d8dee6; background:#fff; color:var(--jl-ink);
+    padding:.4rem .95rem; border-radius:999px; font-size:.9rem; cursor:pointer;
+    transition:all .18s ease; }
+  .jl-filter:hover { border-color:var(--jl-blue); color:var(--jl-blue); }
+  .jl-filter.active { background:var(--jl-blue); border-color:var(--jl-blue); color:#fff; }
+  .jl-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:1.25rem; }
+  .jl-card { position:relative; border:1px solid #e8ecf1; border-radius:14px; background:#fff;
+    padding:1.35rem 1.4rem 1.5rem; box-shadow:0 1px 3px rgba(20,40,70,.05);
+    transition:transform .2s ease, box-shadow .2s ease; overflow:hidden; }
+  .jl-card:hover { transform:translateY(-5px); box-shadow:0 12px 26px rgba(20,60,110,.13); }
+  .jl-card::before { content:""; position:absolute; left:0; top:0; height:100%; width:5px;
+    background:linear-gradient(180deg,var(--jl-blue),var(--jl-hover)); }
+  .jl-card h3 { font-size:1.16rem; margin:.1rem 0 .5rem; color:#24303d; }
+  .jl-meta { font-size:.8rem; color:#8a94a1; margin-bottom:.7rem; }
+  .jl-card p { font-size:.93rem; color:#4c5763; line-height:1.5; margin:0 0 .9rem; }
+  .jl-tags { display:flex; flex-wrap:wrap; gap:.4rem; margin-bottom:.6rem; }
+  .jl-tag { font-size:.72rem; letter-spacing:.02em; text-transform:uppercase;
+    background:#eef5ff; color:var(--jl-blue); padding:.2rem .55rem; border-radius:6px; font-weight:600; }
+  .jl-badge { display:inline-block; font-size:.72rem; font-weight:700; color:#8a5b00;
+    background:#fff4d6; border:1px solid #ffe6a3; padding:.2rem .55rem; border-radius:6px; margin-bottom:.6rem; }
+  .jl-links a { font-size:.87rem; font-weight:600; color:var(--jl-blue); text-decoration:none; margin-right:1rem; }
+  .jl-links a:hover { color:var(--jl-hover); text-decoration:underline; }
+  .jl-card.jl-hide { display:none; }
+  .jl-card { animation:jlfade .35s ease; }
+  @keyframes jlfade { from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:translateY(0);} }
+</style>
+
+<div class="jl-portfolio">
+  <div class="jl-filters" id="jlFilters">
+    <button class="jl-filter active" data-f="all">All</button>
+    <button class="jl-filter" data-f="ai">AI</button>
+    <button class="jl-filter" data-f="edge">Edge AI</button>
+    <button class="jl-filter" data-f="hardware">Hardware</button>
+    <button class="jl-filter" data-f="games">Games</button>
+  </div>
+
+  <div class="jl-grid" id="jlGrid">
+
+    <div class="jl-card" data-tags="hardware edge">
+      <span class="jl-badge">★ Presented at MIT Portugal · Boston 2026</span>
+      <div class="jl-tags"><span class="jl-tag">Hardware</span><span class="jl-tag">Edge AI</span></div>
+      <h3>AI Accelerator on SoC-FPGA</h3>
+      <div class="jl-meta">Master Thesis · IST · 2025</div>
+      <p>Custom hardware accelerators for attention mechanisms and image preprocessing on a Xilinx SoC-FPGA.
+      A hybrid hardware-software design offloads compute-heavy work to HLS IP cores, reaching a
+      <strong>~40&times; reduction in execution cycles</strong> via parallel accumulator architectures and 8-bit quantization.</p>
+      <div class="jl-links"><a href="https://github.com/draike135" target="_blank" rel="noopener">GitHub &rarr;</a></div>
+    </div>
+
+    <div class="jl-card" data-tags="edge ai">
+      <div class="jl-tags"><span class="jl-tag">Edge AI</span><span class="jl-tag">AI</span></div>
+      <h3>Embedded AI Deployment Tool</h3>
+      <div class="jl-meta">Personal / IST · 2024</div>
+      <p>A compiler toolchain for rapid deployment and optimisation of neural networks on low-power
+      microcontrollers (ESP32, STM32). Applies quantization and graph optimisation to fit and accelerate
+      models within tight memory and power budgets &mdash; the core of my edge-AI research.</p>
+      <div class="jl-links"><a href="https://github.com/draike135" target="_blank" rel="noopener">GitHub &rarr;</a></div>
+    </div>
+
+    <div class="jl-card" data-tags="ai">
+      <div class="jl-tags"><span class="jl-tag">AI</span></div>
+      <h3>Agentic AI Architectures</h3>
+      <div class="jl-meta">Personal / OGMA · 2024&ndash;2025</div>
+      <p>Local AI agent systems built on RAG with Ollama, LangChain, OpenClaw/NemoClaw and N8N.
+      Automated enterprise document-generation pipelines that orchestrate multiple LLM calls, deployed as
+      containerised Docker services for reproducible, scalable workflows.</p>
+    </div>
+
+    <div class="jl-card" data-tags="hardware">
+      <div class="jl-tags"><span class="jl-tag">Hardware</span></div>
+      <h3>Moonitor RFID</h3>
+      <div class="jl-meta">Precision Livestock Farming · IST · 2023</div>
+      <p>A remote cow-welfare monitoring product using RFID tags already present in livestock, embedded
+      firmware, and a data backend &mdash; enabling herders to track the welfare of grazing cows remotely.</p>
+    </div>
+
+    <div class="jl-card" data-tags="games">
+      <div class="jl-tags"><span class="jl-tag">Games</span></div>
+      <h3>GameDev T&eacute;cnico &mdash; 14+ Games</h3>
+      <div class="jl-meta">IST Student Group · 2020&ndash;2025</div>
+      <p>Shipped 14+ published games with the GDT student group, several for international competitions.
+      Lead on 3D modeling for most, with programming and 2D art on others &mdash; often the bridge between
+      programmers and artists. Play them on itch.io.</p>
+      <div class="jl-links"><a href="https://draike.itch.io/" target="_blank" rel="noopener">itch.io &rarr;</a></div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  (function(){
+    var filters = document.getElementById('jlFilters');
+    var cards = Array.prototype.slice.call(document.querySelectorAll('#jlGrid .jl-card'));
+    filters.addEventListener('click', function(e){
+      var btn = e.target.closest('.jl-filter'); if(!btn) return;
+      filters.querySelectorAll('.jl-filter').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+      var f = btn.getAttribute('data-f');
+      cards.forEach(function(c){
+        var show = (f === 'all') || (c.getAttribute('data-tags').indexOf(f) !== -1);
+        c.classList.toggle('jl-hide', !show);
+        if(show){ c.style.animation='none'; c.offsetHeight; c.style.animation=''; }
+      });
+    });
+  })();
+</script>

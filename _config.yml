@@ -21,11 +21,15 @@ author: João Lopes
 
 navbar-links:
   About Me: "aboutme"
+  Portfolio: "portfolio"
+  Experience: "experience"
+  Education: "education"
+  Know me!: "knowme"
+  Games: "https://draike.itch.io/"
   Resources:
     - Linkdin: "https://www.linkedin.com/in/jo%C3%A3o-filipe-santos-lopes-860a73268/"
     - Itch.io: "https://draike.itch.io/"
     - Github: "https://github.com/draike135"
-  Projects: "https://draike.itch.io/"
 
 ################
 # --- Logo --- #

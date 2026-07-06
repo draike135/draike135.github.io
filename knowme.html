@@ -1,0 +1,71 @@
+---
+layout: page
+title: Know me!
+subtitle: A bit about who I am — and my CV to take with you
+---
+
+<style>
+  .jl-cv { --jl-blue:#008AFF; --jl-hover:#0085A1; }
+  .jl-intro { display:flex; gap:1.5rem; align-items:center; flex-wrap:wrap; margin:1.2rem 0 1.6rem; }
+  .jl-intro img { width:130px; height:130px; border-radius:50%; object-fit:cover; flex:none;
+    box-shadow:0 4px 14px rgba(20,60,110,.18); border:4px solid #fff; }
+  .jl-intro p { flex:1; min-width:250px; font-size:1rem; line-height:1.6; margin:0; color:#4c5763; }
+  .jl-dl { display:flex; flex-wrap:wrap; gap:.8rem; align-items:center; margin:0 0 2rem; }
+  .jl-btn { display:inline-flex; align-items:center; gap:.5rem; background:var(--jl-blue); color:#fff;
+    padding:.7rem 1.3rem; border-radius:10px; font-weight:600; text-decoration:none; font-size:.95rem;
+    transition:background .18s ease, transform .18s ease; }
+  .jl-btn:hover { background:var(--jl-hover); color:#fff; text-decoration:none; transform:translateY(-2px); }
+  .jl-note { font-size:.85rem; color:#8a94a1; }
+  .jl-skills { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1.1rem; margin-top:1rem; }
+  .jl-skb { border:1px solid #e8ecf1; border-radius:12px; padding:1.1rem 1.2rem; background:#fff;
+    box-shadow:0 1px 3px rgba(20,40,70,.05); transition:transform .18s ease, box-shadow .18s ease; }
+  .jl-skb:hover { transform:translateY(-3px); box-shadow:0 10px 22px rgba(20,60,110,.11); }
+  .jl-skb h4 { font-size:.82rem; text-transform:uppercase; letter-spacing:.04em; color:var(--jl-blue); margin:0 0 .7rem; }
+  .jl-chips { display:flex; flex-wrap:wrap; gap:.4rem; }
+  .jl-chip { font-size:.83rem; background:#f2f6fb; color:#42505e; padding:.28rem .6rem; border-radius:7px; border:1px solid #e6ecf3; }
+  .jl-links-row { margin-top:2rem; font-size:.95rem; }
+  .jl-links-row a { color:var(--jl-blue); font-weight:600; text-decoration:none; margin-right:1.3rem; }
+  .jl-links-row a:hover { color:var(--jl-hover); text-decoration:underline; }
+</style>
+
+<div class="jl-cv">
+
+  <div class="jl-intro">
+    <img src="{{ '/assets/img/profile.png' | relative_url }}" alt="João Filipe Santos Lopes">
+    <p>Hi, I'm <strong>João</strong> — an MSc Electrical &amp; Computer Engineering graduate (IST, Lisbon)
+    working at the intersection of <strong>embedded / edge AI</strong> and <strong>enterprise AI</strong>:
+    from FPGA accelerators and TinyML compiler tooling to agentic RAG systems and LLM integration.
+    I also make games, 3D art, and the occasional woodworking project.</p>
+  </div>
+
+  <div class="jl-dl">
+    <a class="jl-btn" href="{{ '/assets/cv/Joao_Lopes_CV.pdf' | relative_url }}" download>&#8681;&nbsp; Download CV (PDF)</a>
+    <span class="jl-note">Updated {{ 'now' | date: "%B %Y" }}</span>
+  </div>
+
+  <h3>Technical Skills</h3>
+  <div class="jl-skills">
+    <div class="jl-skb"><h4>Backend / APIs</h4><div class="jl-chips">
+      <span class="jl-chip">FastAPI</span><span class="jl-chip">Python</span><span class="jl-chip">REST APIs</span>
+      <span class="jl-chip">Docker</span><span class="jl-chip">Expo</span><span class="jl-chip">GO</span></div></div>
+    <div class="jl-skb"><h4>LLM / AI Stack</h4><div class="jl-chips">
+      <span class="jl-chip">LangChain</span><span class="jl-chip">Ollama</span><span class="jl-chip">RAG</span>
+      <span class="jl-chip">Amazon Bedrock</span><span class="jl-chip">OpenClaw / NemoClaw</span><span class="jl-chip">N8N</span></div></div>
+    <div class="jl-skb"><h4>Frontend</h4><div class="jl-chips">
+      <span class="jl-chip">Next.js</span><span class="jl-chip">JavaScript / TypeScript</span><span class="jl-chip">React</span></div></div>
+    <div class="jl-skb"><h4>Embedded / Hardware</h4><div class="jl-chips">
+      <span class="jl-chip">C/C++</span><span class="jl-chip">STM32</span><span class="jl-chip">VHDL</span>
+      <span class="jl-chip">FPGA (Vitis HLS / Vivado)</span><span class="jl-chip">MatLab</span></div></div>
+    <div class="jl-skb"><h4>Other</h4><div class="jl-chips">
+      <span class="jl-chip">Git / GitHub</span><span class="jl-chip">Unity / Godot</span>
+      <span class="jl-chip">3D Modeling</span><span class="jl-chip">Office Suite</span></div></div>
+  </div>
+
+  <div class="jl-links-row">
+    Explore more:
+    <a href="{{ '/portfolio' | relative_url }}">Portfolio</a>
+    <a href="{{ '/experience' | relative_url }}">Experience</a>
+    <a href="{{ '/education' | relative_url }}">Education</a>
+  </div>
+
+</div>
